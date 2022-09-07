@@ -1,0 +1,1 @@
+Apart from making the script more readable, variables will also enable you to faster apply a script in another environment or for another purpose. Consider the following example, a very simple script that makes a backup of franky's home directory to a remote server:
